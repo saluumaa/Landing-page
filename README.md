@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-# 📖 [Saluma-s-Portfolio] <a name="Landing-page"></a>
+# 📖 [Landing Page] <a name="Landing-page"></a>
 
 > This is a project for building a survey form .
 
