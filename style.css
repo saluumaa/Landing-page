@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+  background-color: blue;
+  padding: 50px 40px;
+  margin: 20px 40px;
+  color: white;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.form-survey {
+  padding-top: 30px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.survey label {
+  font-size: 18px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+.survey input {
+  padding: 10px 25px;
+  border: none;
+  border-radius: 8px;
+}
+
+.drop {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.comments {
+  padding: 15px;
+  height: 150px;
+  width: 250px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.submit {
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: none;
+}
